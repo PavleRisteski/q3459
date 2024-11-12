@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    text-decoration-line: underline;
+    background-color:bisque;
+}
+h2{
+    color:blue ;
+}
